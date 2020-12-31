@@ -14,6 +14,7 @@ namespace Assignment3
             string[] words = sentence.Split(" ");
             foreach(string text in words)
             Console.WriteLine(text);
+            Console.ReadLine();
             
             
 
